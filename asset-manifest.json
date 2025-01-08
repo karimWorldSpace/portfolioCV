@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/portfolioCV/static/js/main.1dc8d9d1.js",
+    "static/js/317.c4c02dea.chunk.js": "/portfolioCV/static/js/317.c4c02dea.chunk.js",
+    "index.html": "/portfolioCV/index.html",
+    "main.1dc8d9d1.js.map": "/portfolioCV/static/js/main.1dc8d9d1.js.map",
+    "317.c4c02dea.chunk.js.map": "/portfolioCV/static/js/317.c4c02dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.1dc8d9d1.js"
+  ]
+}
