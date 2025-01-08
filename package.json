@@ -2,8 +2,7 @@
   "name": "karim  portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
-  "proxy": "http://localhost:3000",
+  "homepage": "https://karimworldspace.github.io/portfolioCV",
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
