@@ -20,9 +20,9 @@ function preloadImage(src: string) {
 
 const EducationProfile: React.FC<EducationProfileProps> = ({imageNumber}) => {
     const meImg: string[] = [
-        "/assets/education/paul.jpg",
-        "/assets/education/p13.jpg",
-        "/assets/education/epitech.jpg",
+        "assets/education/paul.jpg",
+        "assets/education/p13.jpg",
+        "assets/education/epitech.jpg",
     ]
 
     useEffect(() => {
